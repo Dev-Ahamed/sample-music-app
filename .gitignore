@@ -1,0 +1,5 @@
+# Igonre All .log files
+*.log
+
+# Igonre All files in any directory
+temp/
