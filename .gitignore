@@ -2,4 +2,4 @@
 *.log
 
 # Igonre All files in any directory
-temp/
+*.temp/
